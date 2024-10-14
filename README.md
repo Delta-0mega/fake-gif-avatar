@@ -3,7 +3,6 @@
 
 A Discord theme that allows you to have a gif avatar for free
 
-#### All clients all supported
 
 ### How to use
 - Copy this link : https://raw.githubusercontent.com/Delta-0mega/fake-gif-avatar/refs/heads/main/pfps.css
