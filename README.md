@@ -17,6 +17,8 @@ A Discord theme that allows you to have a gif avatar for free
 - Download this css fie : https://github.com/Delta-0mega/fake-gif-avatar/blob/main/import.css
 - Put the file into the theme folder of your client
 
+#### If your client offer you a custom json as theme, you can't use this theme and no version is planned for json themes
+
 ### Change avatar
 - Join our server : https://discord.gg/nZQZKaqjgR
 - Follow the instructions given by the server
