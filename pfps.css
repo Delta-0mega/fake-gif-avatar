@@ -7,3 +7,12 @@
 .userAvatar_ac3629[style*="1293641904860172389"] {
   background-image: url(https://raw.githubusercontent.com/Delta-0mega/fake-gif-avatar/main/images/1293641904860172389.gif)!important;
 }
+
+.clickable_f9f2ca[src^="https://cdn.discordapp.com/avatars/1293641904860172389"],
+.avatar_c51b4e[src^="https://cdn.discordapp.com/avatars/1293641904860172389"],
+.avatar_c47562[src^="https://cdn.discordapp.com/avatars/1293641904860172389"] {
+  content: url(https://raw.githubusercontent.com/Delta-0mega/fake-gif-avatar/main/images/1293641904860172389.png);
+}
+.userAvatar_ac3629[style*="1293641904860172389"] {
+  background-image: url(https://raw.githubusercontent.com/Delta-0mega/fake-gif-avatar/main/images/1293641904860172389.png)!important;
+}
